@@ -11,7 +11,7 @@ void display() {
     glClear(GL_COLOR_BUFFER_BIT);   
     //rectangle
     glBegin(GL_QUADS);
-    glColor3f(0.74f, 0.45f, 0.95f);
+    glColor3f(0.63, 1, 0.61);
     glVertex2f(120, 10);
     glVertex2f(380, 10);
     glVertex2f(380, 200);
@@ -20,7 +20,7 @@ void display() {
 
     //triangle
     glBegin(GL_TRIANGLES);
-    glColor3f(0.74f, 0.45f, 0.95f);
+    glColor3f(0.86, 0.38, 0.07);
     glVertex2f(80, 200);
     glVertex2f(420, 200);
     glVertex2f(250, 350);
@@ -38,7 +38,7 @@ void display() {
 
     //chimney
     glBegin(GL_QUADS);
-    glColor3f(0.74f, 0.45f, 0.95f);
+    glColor3f(0.63, 1, 0.61);
     glVertex2f(320, 240);
     glVertex2f(370, 240);
     glVertex2f(370, 300);
@@ -47,7 +47,7 @@ void display() {
 
     //door
     glBegin(GL_QUADS);
-    glColor3f(0.68, 1, 0);
+    glColor3f(0.25, 0.15, 0.88);
     glVertex2f(200, 10);
     glVertex2f(300, 10);
     glVertex2f(300, 150);
@@ -71,7 +71,7 @@ void display() {
 
     //left-window
     glBegin(GL_QUADS);
-    glColor3f(0.68, 1, 0);
+    glColor3f(0.25, 0.15, 0.88);
     glVertex2f(140, 130);
     glVertex2f(190, 130);
     glVertex2f(190, 180);
@@ -90,7 +90,7 @@ void display() {
 
     //right-window
     glBegin(GL_QUADS);
-    glColor3f(0.68, 1, 0);
+    glColor3f(0.25, 0.15, 0.88);
     glVertex2f(310, 130);
     glVertex2f(360, 130);
     glVertex2f(360, 180);
