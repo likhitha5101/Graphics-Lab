@@ -7,5 +7,5 @@ Exercises :
   3. Bresenham's Line drwaing algorithm
   4. Midpoint circle drawing algorithm
   5. 2D Transformations - translations, scaling and rotation
-  6a. 2D Transformations - Reflection and shearing
-  6b. Window to Viewport Mapping
+  6. a : 2D Transformations - Reflection and shearing
+  6. b :  Window to Viewport Mapping
